@@ -1,0 +1,9 @@
+name: OreCountSystem
+main: kabochamaru.OreCountSystem.OreCountSystem
+version: 1.0.0
+author: kabochamaru
+description: bukkit Plugin
+commands:
+  oc:
+    description: 鉱石カウンター
+    permission: op
